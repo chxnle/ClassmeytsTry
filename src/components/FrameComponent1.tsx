@@ -62,8 +62,8 @@ const FrameComponent1: FunctionComponent = () => {
         </div>
       </div>
       <div className="self-stretch flex flex-row flex-wrap items-start justify-start gap-[16.5px]">
-        <select
-          className="h-[43px] flex-1 bg-[transparent] box-border flex flex-row items-end justify-start pt-[6.8px] px-0 pb-[10.799999999998544px] gap-[44.1px] font-comfortaa font-bold text-sm text-secondary-color-blue min-w-[135px] z-[1] border-b-[1px] border-solid border-secondary-color-blue"
+      <select
+          className="flex-1 bg-[transparent] box-border flex flex-row items-end justify-between pt-1.5 px-0 pb-[8.799999999999272px] font-comfortaa font-bold text-sm text-secondary-color-blue min-w-[135px] gap-[20px] z-[1] border-b-[1px] border-solid border-secondary-color-blue"
           required={true}
         >
           <option value="College">College</option>
@@ -93,7 +93,7 @@ const FrameComponent1: FunctionComponent = () => {
             type="password"
           />
           <div className="h-[43px] w-[572px] relative box-border hidden max-w-full border-b-[1px] border-solid border-secondary-color-blue" />
-          <img className="h-[27.4px] w-[30px] relative z-[2]" alt="" />
+          
         </div>
       </div>
     </div>
