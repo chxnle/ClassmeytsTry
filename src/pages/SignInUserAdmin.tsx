@@ -15,7 +15,7 @@ const SignInUserAdmin: FunctionComponent = () => {
               src="/classmeyts-no-bg-1@2x.png"
             />
           </div>
-          <div className="self-stretch h-[121px] relative flex items-center justify-center shrink-0 z-[1]">{`At Classmeyt's, we're committed on enhancing your academic journey by providing a vibrant online community where students can share resources, engage in discussions, and receive valuable peer feedback. `}</div>
+          <div className="self-stretch h-[111px] relative flex items-center justify-center shrink-0 z-[1]">{`At Classmeyt's, we're committed on enhancing your academic journey by providing a vibrant online community where students can share resources, engage in discussions, and receive valuable peer feedback. `}</div>
         </div>
         <SignIn />
       </main>
