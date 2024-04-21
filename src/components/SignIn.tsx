@@ -48,11 +48,9 @@ const SignIn: FunctionComponent = () => {
               type="password"
             />
             <div className="h-[43px] w-[572px] relative box-border hidden max-w-full border-b-[1px] border-solid border-secondary-color-blue" />
-            <img
-              className="h-[26.9px] w-[30px] relative object-contain z-[2]"
-              alt=""
-              src="/visibility-off@2x.png"
-            />
+            
+
+            
           </div>
         </div>
         <b
@@ -79,7 +77,7 @@ const SignIn: FunctionComponent = () => {
           >
             <span className="w-full">
               <span>
-                <span>Don’t have an account?</span>
+                <span>Don t have an account?</span>
                 <b className="text-link-color">{` `}</b>
               </span>
               <b className="text-link-color">
